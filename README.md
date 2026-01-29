@@ -38,6 +38,9 @@ PR should be small in size, It's recommended to do one commit per PR. However, b
 9. For any new build release add a version tag to that specific commit to keep track of each version.
 ![alt text](./git%20tag.png)
 10. Create 2 another branch (3rd and 4th) from develop, push read me changes to 3rd brach.
-11. Cherry pick 3rd branch's commit to 4th branch. 
+![alt text](./create%20branch%203,4%20and%20push%203.png)
+11. Cherry pick 3rd branch's commit to 4th branch.
+![alt text](./cherrypickon4th.png)
 12. Change commit message in 4th branch
+![alt text](./amend%20to%20change%20commit.png)
 13. add 3 commit to 4th branch and delete last commit.
