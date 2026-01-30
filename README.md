@@ -46,5 +46,5 @@ PR should be small in size, It's recommended to do one commit per PR. However, b
 ![alt text](./amend%20to%20change%20commit.png)
 13. add 3 commit to 4th branch and delete last commit.
     
-    last 3 commit before deleting 3rd ![alt text](image.png) 
-    after deleting 3rd commit using git revert so i don't lost my changes and can commit them on the next commit.![alt text](image-1.png)
+    last 3 commit before deleting 3rd ![alt text](./3%20commits%20before%20delete.png) 
+    after deleting 3rd commit using git revert so i don't lost my changes and can commit them on the next commit.![alt text](./3%20commits%20after%20delete.png)
