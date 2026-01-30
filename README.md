@@ -35,6 +35,7 @@ PR should be small in size, It's recommended to do one commit per PR. However, b
 8. Create a PR for the current branch given your branch should be up to date with develop branch
 ![alt text](./second%20pr%20with%20latest%20develop.png)
 ![alt text](./Rebase%20develop%20on%20commit-msg.png)
+![alt text](./PR2.png)
 9. For any new build release add a version tag to that specific commit to keep track of each version.
 ![alt text](./git%20tag.png)
 10. Create 2 another branch (3rd and 4th) from develop, push read me changes to 3rd brach.
@@ -44,3 +45,6 @@ PR should be small in size, It's recommended to do one commit per PR. However, b
 12. Change commit message in 4th branch
 ![alt text](./amend%20to%20change%20commit.png)
 13. add 3 commit to 4th branch and delete last commit.
+    
+    last 3 commit before deleting 3rd ![alt text](image.png) 
+    after deleting 3rd commit using git revert so i don't lost my changes and can commit them on the next commit.![alt text](image-1.png)
